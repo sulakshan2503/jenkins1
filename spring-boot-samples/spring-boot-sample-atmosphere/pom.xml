@@ -95,7 +95,7 @@
    </executions>
    <configuration>
       <serverId>nexus</serverId>
-      <nexusUrl>http://35.154.212.66:8081/nexus/</nexusUrl>
+      <nexusUrl>http://13.232.134.119:8081/nexus/</nexusUrl>
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
@@ -104,7 +104,7 @@
 	<distributionManagement>
     		<repository>
       			<id>releases</id>
-      			<url>http://35.154.212.66:8081/repository/vdev/</url>
+      			<url>http://13.232.134.119:8081/repository/vdev/</url>
     		</repository>
   	</distributionManagement>
 </project>
