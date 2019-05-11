@@ -15,4 +15,8 @@ node {
     {
         echo "all success"
     }
+     stage('Deployment')
+    {
+        echo "all success"
+    }
 }
